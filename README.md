@@ -5,7 +5,7 @@
     <li>Clone the repo in your machine.</li>
     <li>Then move to project folder and open terminal there.</li>
     <li>Run this command in terminal: <strong>composer install</strong> . This command will install all the dependencies of the project.</li>
-    <li>Now create a DB with name <strong>shop</shop> or something else.</li>
+    <li>Now create a DB with name <strong>shop</strong> or something else.</li>
     <li>Then create <strong>.env </strong> file where need to define DB name and host.</li>
     <li>After setting <strong>.env</strong> file, run migration command as :
     <br/>
